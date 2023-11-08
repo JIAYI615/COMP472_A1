@@ -1,0 +1,43 @@
+5.
+(A)
+Top-MLP:
+A better performing Multi-Layered Perceptron found using grid search.
+The best parameters were found to be:
+
+activation: relu
+hidden_layer_sizes: (50, 50)
+solver: adam
+
+the rest of the parameters were set to default.
+
+(B)
+Confusion Matrix:
+[[122  29  91]
+ [ 21 219  42]
+ [130  62 120]]
+
+(C)
+           precision   recall  f1-score
+
+Adelie       0.45      0.50      0.47
+Chinstrap    0.71      0.78      0.74
+Gentoo       0.47      0.38      0.42
+
+(D)
+accuracy       0.56
+macro avg      0.54
+weighted avg   0.55
+
+
+6.
+(A)
+Average Accuracy: 0.5533
+Variance: 0.000063
+
+(B)
+Average Macro-average: 0.53
+Variance: 0.00044
+
+(C)
+Average Weighted-average: 0.538
+Variance: 0.000216

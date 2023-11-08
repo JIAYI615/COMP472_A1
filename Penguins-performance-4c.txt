@@ -1,0 +1,38 @@
+5.
+(A)
+Base-MLP:
+multi-layered perceptron with 2 hidden layers of 100+100 neurons, sigmoid/logistic
+as activation function, stochastic gradient descent, and default values for the rest of the parameters.
+
+(B)
+Confusion Matrix:
+[[  5  28 209]
+ [  1 187  94]
+ [  4  53 255]]
+
+(C)
+           precision   recall  f1-score
+
+Adelie       0.50      0.02      0.04
+Chinstrap    0.70      0.66      0.68
+Gentoo       0.46      0.82      0.59
+
+
+(D)
+accuracy       0.53
+macro avg      0.44
+weighted avg   0.46
+
+
+6.
+(A)
+Average Accuracy: 0.5282
+Variance: 0.000069
+
+(B)
+Average Macro-average: 0.42
+Variance: 0.00016 
+
+(C)
+Average Weighted-average: 0.448
+Variance: 0.000096
