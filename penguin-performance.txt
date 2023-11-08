@@ -1,0 +1,412 @@
+----------------------------------------
+(A) Base Decision Tree for Penguins(Default Hyperparameters)
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+random_state: None
+splitter: best
+----------------------------------------
+(B) Confusion Matrix for Penguins:
+           Adelie  Chinstrap  Gentoo
+Adelie         39          1       0
+Chinstrap       1         14       0
+Gentoo          0          0      29
+----------------------------------------
+(C) Precision, Recall, and F1-measure for Penguins:
+              precision    recall  f1-score   support
+
+      Adelie       0.97      0.97      0.97        40
+   Chinstrap       0.93      0.93      0.93        15
+      Gentoo       1.00      1.00      1.00        29
+
+    accuracy                           0.98        84
+   macro avg       0.97      0.97      0.97        84
+weighted avg       0.98      0.98      0.98        84
+
+----------------------------------------
+(D) Accuracy for Penguins: 0.9761904761904762
+Macro-average F1: 0.9694444444444444
+Weighted-average F1: 0.9761904761904762
+--------------------------------------------------------------------------------
+(A) Base Decision Tree for Penguins(Default Hyperparameters)
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+random_state: None
+splitter: best
+----------------------------------------
+(B) Confusion Matrix for Penguins:
+           Adelie  Chinstrap  Gentoo
+Adelie         39          1       0
+Chinstrap       1         14       0
+Gentoo          0          0      29
+----------------------------------------
+(C) Precision, Recall, and F1-measure for Penguins:
+              precision    recall  f1-score   support
+
+      Adelie       0.97      0.97      0.97        40
+   Chinstrap       0.93      0.93      0.93        15
+      Gentoo       1.00      1.00      1.00        29
+
+    accuracy                           0.98        84
+   macro avg       0.97      0.97      0.97        84
+weighted avg       0.98      0.98      0.98        84
+
+----------------------------------------
+(D) Accuracy for Penguins: 0.9761904761904762
+Macro-average F1: 0.9694444444444444
+Weighted-average F1: 0.9761904761904762
+--------------------------------------------------------------------------------
+(A) Base Decision Tree for Penguins(Default Hyperparameters)
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+random_state: None
+splitter: best
+----------------------------------------
+(B) Confusion Matrix for Penguins:
+           Adelie  Chinstrap  Gentoo
+Adelie         39          1       0
+Chinstrap       1         14       0
+Gentoo          0          0      29
+----------------------------------------
+(C) Precision, Recall, and F1-measure for Penguins:
+              precision    recall  f1-score   support
+
+      Adelie       0.97      0.97      0.97        40
+   Chinstrap       0.93      0.93      0.93        15
+      Gentoo       1.00      1.00      1.00        29
+
+    accuracy                           0.98        84
+   macro avg       0.97      0.97      0.97        84
+weighted avg       0.98      0.98      0.98        84
+
+----------------------------------------
+(D) Accuracy for Penguins: 0.9761904761904762
+Macro-average F1: 0.9694444444444444
+Weighted-average F1: 0.9761904761904762
+--------------------------------------------------------------------------------
+(A) Base Decision Tree for Penguins(Default Hyperparameters)
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+random_state: None
+splitter: best
+----------------------------------------
+(B) Confusion Matrix for Penguins:
+           Adelie  Chinstrap  Gentoo
+Adelie         39          1       0
+Chinstrap       1         14       0
+Gentoo          0          0      29
+----------------------------------------
+(C) Precision, Recall, and F1-measure for Penguins:
+              precision    recall  f1-score   support
+
+      Adelie       0.97      0.97      0.97        40
+   Chinstrap       0.93      0.93      0.93        15
+      Gentoo       1.00      1.00      1.00        29
+
+    accuracy                           0.98        84
+   macro avg       0.97      0.97      0.97        84
+weighted avg       0.98      0.98      0.98        84
+
+----------------------------------------
+(D) Accuracy for Penguins: 0.9761904761904762
+Macro-average F1: 0.9694444444444444
+Weighted-average F1: 0.9761904761904762
+--------------------------------------------------------------------------------
+(A) Base Decision Tree for Penguins(Default Hyperparameters)
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+random_state: None
+splitter: best
+----------------------------------------
+(B) Confusion Matrix for Penguins:
+           Adelie  Chinstrap  Gentoo
+Adelie         39          1       0
+Chinstrap       1         14       0
+Gentoo          0          0      29
+----------------------------------------
+(C) Precision, Recall, and F1-measure for Penguins:
+              precision    recall  f1-score   support
+
+      Adelie       0.97      0.97      0.97        40
+   Chinstrap       0.93      0.93      0.93        15
+      Gentoo       1.00      1.00      1.00        29
+
+    accuracy                           0.98        84
+   macro avg       0.97      0.97      0.97        84
+weighted avg       0.98      0.98      0.98        84
+
+----------------------------------------
+(D) Accuracy for Penguins: 0.9761904761904762
+Macro-average F1: 0.9694444444444444
+Weighted-average F1: 0.9761904761904762
+----------------------------------------
+(E) Base-DT Average Performance for Penguins:
+                        Metric     Value      Variance
+0             Average Accuracy  0.976190  1.232595e-32
+1     Average Macro-average F1  0.969444  0.000000e+00
+2  Average Weighted-average F1  0.976190  1.232595e-32
+--------------------------------------------------------------------------------
+(A) Top Decision Tree for Penguins(Hyperparameters found by grid search)
+criterion: gini
+max_depth: None
+min_samples_split: 5
+----------------------------------------
+(B) Confusion Matrix for Penguins:
+           Adelie  Chinstrap  Gentoo
+Adelie         40          0       0
+Chinstrap       1         14       0
+Gentoo          0          0      29
+----------------------------------------
+(C) Precision, Recall, and F1-measure for Penguins:
+              precision    recall  f1-score   support
+
+      Adelie       0.98      1.00      0.99        40
+   Chinstrap       1.00      0.93      0.97        15
+      Gentoo       1.00      1.00      1.00        29
+
+    accuracy                           0.99        84
+   macro avg       0.99      0.98      0.98        84
+weighted avg       0.99      0.99      0.99        84
+
+----------------------------------------
+(D) Accuracy for Penguins: 0.9880952380952381
+Macro-average F1: 0.9843905207889883
+Weighted-average F1: 0.9879634697642361
+--------------------------------------------------------------------------------
+(A) Top Decision Tree for Penguins(Hyperparameters found by grid search)
+criterion: gini
+max_depth: None
+min_samples_split: 5
+----------------------------------------
+(B) Confusion Matrix for Penguins:
+           Adelie  Chinstrap  Gentoo
+Adelie         39          1       0
+Chinstrap       1         14       0
+Gentoo          0          0      29
+----------------------------------------
+(C) Precision, Recall, and F1-measure for Penguins:
+              precision    recall  f1-score   support
+
+      Adelie       0.97      0.97      0.97        40
+   Chinstrap       0.93      0.93      0.93        15
+      Gentoo       1.00      1.00      1.00        29
+
+    accuracy                           0.98        84
+   macro avg       0.97      0.97      0.97        84
+weighted avg       0.98      0.98      0.98        84
+
+----------------------------------------
+(D) Accuracy for Penguins: 0.9761904761904762
+Macro-average F1: 0.9694444444444444
+Weighted-average F1: 0.9761904761904762
+--------------------------------------------------------------------------------
+(A) Top Decision Tree for Penguins(Hyperparameters found by grid search)
+criterion: gini
+max_depth: 10
+min_samples_split: 5
+----------------------------------------
+(B) Confusion Matrix for Penguins:
+           Adelie  Chinstrap  Gentoo
+Adelie         40          0       0
+Chinstrap       1         14       0
+Gentoo          0          0      29
+----------------------------------------
+(C) Precision, Recall, and F1-measure for Penguins:
+              precision    recall  f1-score   support
+
+      Adelie       0.98      1.00      0.99        40
+   Chinstrap       1.00      0.93      0.97        15
+      Gentoo       1.00      1.00      1.00        29
+
+    accuracy                           0.99        84
+   macro avg       0.99      0.98      0.98        84
+weighted avg       0.99      0.99      0.99        84
+
+----------------------------------------
+(D) Accuracy for Penguins: 0.9880952380952381
+Macro-average F1: 0.9843905207889883
+Weighted-average F1: 0.9879634697642361
+--------------------------------------------------------------------------------
+(A) Top Decision Tree for Penguins(Hyperparameters found by grid search)
+criterion: entropy
+max_depth: 5
+min_samples_split: 5
+----------------------------------------
+(B) Confusion Matrix for Penguins:
+           Adelie  Chinstrap  Gentoo
+Adelie         39          1       0
+Chinstrap       1         14       0
+Gentoo          0          0      29
+----------------------------------------
+(C) Precision, Recall, and F1-measure for Penguins:
+              precision    recall  f1-score   support
+
+      Adelie       0.97      0.97      0.97        40
+   Chinstrap       0.93      0.93      0.93        15
+      Gentoo       1.00      1.00      1.00        29
+
+    accuracy                           0.98        84
+   macro avg       0.97      0.97      0.97        84
+weighted avg       0.98      0.98      0.98        84
+
+----------------------------------------
+(D) Accuracy for Penguins: 0.9761904761904762
+Macro-average F1: 0.9694444444444444
+Weighted-average F1: 0.9761904761904762
+--------------------------------------------------------------------------------
+(A) Top Decision Tree for Penguins(Hyperparameters found by grid search)
+criterion: gini
+max_depth: 5
+min_samples_split: 5
+----------------------------------------
+(B) Confusion Matrix for Penguins:
+           Adelie  Chinstrap  Gentoo
+Adelie         39          1       0
+Chinstrap       1         14       0
+Gentoo          0          0      29
+----------------------------------------
+(C) Precision, Recall, and F1-measure for Penguins:
+              precision    recall  f1-score   support
+
+      Adelie       0.97      0.97      0.97        40
+   Chinstrap       0.93      0.93      0.93        15
+      Gentoo       1.00      1.00      1.00        29
+
+    accuracy                           0.98        84
+   macro avg       0.97      0.97      0.97        84
+weighted avg       0.98      0.98      0.98        84
+
+----------------------------------------
+(D) Accuracy for Penguins: 0.9761904761904762
+Macro-average F1: 0.9694444444444444
+Weighted-average F1: 0.9761904761904762
+----------------------------------------
+(E) Top-DT Average Performance for Penguins:
+                        Metric     Value  Variance
+0             Average Accuracy  0.980952  0.000034
+1     Average Macro-average F1  0.975423  0.000054
+2  Average Weighted-average F1  0.980900  0.000033
+--------------------------------------------------------------------------------
+For base-MLP:
+5.
+(A)
+Base-MLP:
+multi-layered perceptron with 2 hidden layers of 100+100 neurons, sigmoid/logistic
+as activation function, stochastic gradient descent, and default values for the rest of the parameters.
+
+(B)
+Confusion Matrix:
+[[39  0  0]
+ [10  0  0]
+ [18  0  0]]
+
+(C)
+          precision   recall  f1-score
+
+Adelie       0.58      1.00      0.74
+Chinstrap    0.00      0.00      0.00
+Gentoo       0.00      0.00      0.00
+
+
+(D)
+accuracy       0.58        
+macro avg      0.25        
+weighted avg   0.43        
+
+
+6.
+(A)
+Average Accuracy: 0.4925373134
+Variance: 0.0034751615
+
+(B)
+Average Macro-average: 0.222
+Variance: 0.000376
+
+(C)
+Average Weighted-average: 0.328
+Variance: 0.004336
+--------------------------------------------------------------------------------
+For TOP-MLP:
+5.
+(A)
+Top-MLP:
+A better performing Multi-Layered Perceptron found using grid search.
+The best parameters were found to be:
+
+activation: logistic
+hidden_layer_sizes: (125, 125)
+solver: adam
+
+the rest of the parameters were set to default.
+
+(B)
+Confusion Matrix:
+[[28  0  3]
+ [12  0  0]
+ [ 0  0 24]]
+
+(C)
+           precision   recall  f1-score
+
+Adelie       0.70      0.90      0.79
+Chinstrap    0.00      0.00      0.00
+Gentoo       0.89      1.00      0.94
+
+(D)
+accuracy       0.78        
+macro avg      0.58        
+weighted avg   0.70        
+
+
+6.
+(A)
+Average Accuracy: 0.6388059701
+Variance: 0.026856761
+
+(B)
+Average Macro-average: 0.494
+Variance: 0.028304
+
+(C)
+Average Weighted-average: 0.548
+Variance: 0.039016
