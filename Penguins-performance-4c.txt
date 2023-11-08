@@ -6,33 +6,33 @@ as activation function, stochastic gradient descent, and default values for the 
 
 (B)
 Confusion Matrix:
-[[  5  28 209]
- [  1 187  94]
- [  4  53 255]]
+[[39  0  0]
+ [10  0  0]
+ [18  0  0]]
 
 (C)
-           precision   recall  f1-score
+          precision   recall  f1-score
 
-Adelie       0.50      0.02      0.04
-Chinstrap    0.70      0.66      0.68
-Gentoo       0.46      0.82      0.59
+Adelie       0.58      1.00      0.74
+Chinstrap    0.00      0.00      0.00
+Gentoo       0.00      0.00      0.00
 
 
 (D)
-accuracy       0.53
-macro avg      0.44
-weighted avg   0.46
+accuracy       0.58        
+macro avg      0.25        
+weighted avg   0.43        
 
 
 6.
 (A)
-Average Accuracy: 0.5282
-Variance: 0.000069
+Average Accuracy: 0.4925373134
+Variance: 0.0034751615
 
 (B)
-Average Macro-average: 0.42
-Variance: 0.00016 
+Average Macro-average: 0.222
+Variance: 0.000376
 
 (C)
-Average Weighted-average: 0.448
-Variance: 0.000096
+Average Weighted-average: 0.328
+Variance: 0.004336
