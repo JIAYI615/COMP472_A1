@@ -3,10 +3,10 @@
 
 ## Contributors
 
-| Name                   | Student ID | GitHub                                          |
-| ---------------------- | ---------- | ----------------------------------------------- |
-| Xavier Morgan-Tracy    | 40129775   | [XavierKMT](https://github.com/XavierKMT)       |
-| Jiayi Chen             | 40110997   | [JIAYI615](https://github.com/JIAYI615)         |
+| Name                     | Student ID | GitHub                                          |
+| ------------------------ | ---------- | ----------------------------------------------- |
+| Xavier Morgan-Tracy      | 40129775   | [XavierKMT](https://github.com/XavierKMT)       |
+| Jiayi Chen (Team Leader) | 40110997   | [JIAYI615](https://github.com/JIAYI615)         |
   
 ## Running instructions:
 The assignment contains 4 .ipynb files: Base-DT, Top-DT, Base-MLP, and Top-MLP  
